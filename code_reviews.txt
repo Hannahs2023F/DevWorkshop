@@ -1,3 +1,16 @@
-1. give me 100
-2.
-3. 
+1. Similar concepts: 
+    - both provide what reviews should accomplish
+    - both provide a clear layout what to use and to avoid
+    Differences:
+    -Microsoft adds tips for developers and reviewers
+    -Yelp provides a checklist 
+    Some things that should be present in a code review checklist
+    is implementation, quality, and testing the code.
+2.  https://codereview.stackexchange.com/questions/291452/making-sklearns-decision-trees-easier-to-traverse
+    I believe this is a good example of a good code review because it offers a good, lclear review of the code
+    and provides some recommendations without being biased.
+
+3. https://codereview.stackexchange.com/questions/291428/how-to-make-a-request-inside-another-request-more-optimal
+    This is an example of a bad code review because the review is not beneficial. It does not seem to check the quality
+    of the code or its correctness. It could be improved by understanding and checking the code. It is also important 
+    to verify the code being reviewed is well tested. 
